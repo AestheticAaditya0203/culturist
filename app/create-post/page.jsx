@@ -10,9 +10,7 @@ const CreatePost = () => {
     tag:'',
   })
 
-  const createPost = async(e) =>{
-
-  }
+  
 
   return (
     <>
